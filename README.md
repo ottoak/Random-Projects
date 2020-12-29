@@ -1,6 +1,6 @@
 # Random Projects
 A collection of random coding projects
-## Crypto.py
+## crypto.py
 A python simulation comparing the speed of the RSA-3072 and 256 bit Elliptic Curve (SECP256R1) hashing algorithms
 
 ## diffusion_eqn.py
