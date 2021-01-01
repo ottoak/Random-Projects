@@ -5,3 +5,6 @@ A python simulation comparing the speed of the RSA-3072 and 256 bit Elliptic Cur
 
 ## diffusion_eqn.py
 A simple python simulation, numerically solving the diffusion equation in a simple scenario
+
+## Lin_Optimization
+Work in progress implementations of linear optimization algorithms
